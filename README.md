@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzbintangyosua
 - 👀 I’m interested in tech and history
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me nocover99@gmail.com
 
