@@ -12,13 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://bintangyosua.vercel.app/](https://bintangyosua.vercel.app/)
 
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **nextjs, python, javascript**
 
 - 📫 How to reach me **minuettaro@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **I think i am rude**
 
