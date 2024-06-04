@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since end of 2019<br>📚 I'm currently learning machine learning and software architectures<br>🎯 Goals: helpful person<br>🎲 Fun fact: I love to discuss anything like history, philosophy, financial topicc even though im a compsci student.</p>
+<p align="left">✨ Creating bugs since end of 2019<br>📚 I'm currently learning machine learning and software architectures<br>🎯 Goals: helpful person<br>🎲 Fun fact: I love to discuss anything like history, philosophy, financial topicc.</p>
 
 ###
 
