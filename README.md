@@ -5,7 +5,8 @@
 <p align="left">My name is Bintang and I'm a machine learning and software engineering enthusiast from Purwokerto.</p>
 Linkedin: https://linkedin.com/in/bintangyosua <br>
 Email: itzbintangyosua@gmail.com <br>
-Portfolio: https://bintangyosua.my.id <br>
+Website: https://bintangyosua.my.id <br>
+Huggingface: https://huggingface.co/bintangyosua <br>
 
 ###
 
