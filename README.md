@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Hey 👋 What's up?</h1> -->
 
-![](./assets/Untitled-1.png)
+![](./assets/name3.png)
 
 <p align="center">
 <a href="mailto:itzbintangyosua@gmail.com">Email</a> · <a href="https://bintangyosua.my.id">Website</a> · <a href="https://instagram.com/itzbintangyosua">Instagram</a> · <a href="https://linkedin.com/in/bintangyosua">LinkedIn</a> · <a href="https://huggingface.co/bintangyosua">HuggingFace</a> · <a href="public.tableau.com/app/profile/panky.bintang.pradana.yosua/vizzes">Tableau</a> · <a href="https://www.youtube.com/@Minuettaro">Youtube</a>
