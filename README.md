@@ -28,7 +28,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  Hi, I'm Bintang, a passionate machine learning and software engineering enthusiast from Purwokerto. Currently, I'm pursuing my studies at Jenderal Soedirman University.
+  Hi, I'm Bintang, a passionate machine learning and software engineering enthusiast from Purwokerto. Currently, I'm pursuing my studies at Jenderal Soedirman University. Visit my <a href="https://cv.bintangyosua.my.id" target="_blank">Resume here</a>.
 </p>
 
 <p align="left">
